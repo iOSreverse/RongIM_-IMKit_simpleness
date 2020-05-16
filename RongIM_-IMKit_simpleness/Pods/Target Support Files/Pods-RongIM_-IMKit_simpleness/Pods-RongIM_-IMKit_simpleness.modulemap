@@ -1,0 +1,6 @@
+framework module Pods_RongIM__IMKit_simpleness {
+  umbrella header "Pods-RongIM_-IMKit_simpleness-umbrella.h"
+
+  export *
+  module * { export * }
+}

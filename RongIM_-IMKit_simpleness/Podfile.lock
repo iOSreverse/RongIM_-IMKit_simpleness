@@ -1,0 +1,27 @@
+PODS:
+  - RongCloudIM (2.10.5):
+    - RongCloudIM/IMKit (= 2.10.5)
+    - RongCloudIM/IMLib (= 2.10.5)
+    - RongCloudIM/RongSticker (= 2.10.5)
+    - RongCloudIM/Sight (= 2.10.5)
+  - RongCloudIM/IMKit (2.10.5):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.10.5)
+  - RongCloudIM/RongSticker (2.10.5):
+    - RongCloudIM/IMKit
+  - RongCloudIM/Sight (2.10.5):
+    - RongCloudIM/IMLib
+
+DEPENDENCIES:
+  - RongCloudIM
+
+SPEC REPOS:
+  trunk:
+    - RongCloudIM
+
+SPEC CHECKSUMS:
+  RongCloudIM: 667bd00a302c84fe93ce63ef04fca4ffd28063b8
+
+PODFILE CHECKSUM: 7eb9863df3714df5aeb3b9b4b6d7055f1af12f3b
+
+COCOAPODS: 1.9.1
