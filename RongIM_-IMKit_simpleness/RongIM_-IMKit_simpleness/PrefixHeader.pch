@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  RongIM_-IMKit_simpleness
+//
+//  Created by wdw on 2020/5/23.
+//  Copyright © 2020 wdw. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define rongIMAppkey @"e5t4ouvpecuza"
+
+#endif /* PrefixHeader_pch */
