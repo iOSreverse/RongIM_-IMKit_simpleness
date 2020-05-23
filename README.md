@@ -1,2 +1,2 @@
 # RongIM_-IMKit_simpleness
-仅仅集成了融云聊天列表和点击会话事件.AppKey和token为写死的(token需在后台获取这里仅仅为了展示)
+最简单集成融云,仅仅集成了融云聊天列表和点击会话事件.AppKey和token为写死的(token需在后台获取这里仅仅为了展示)
